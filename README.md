@@ -1,2 +1,2 @@
-# chandlerinchief.github.io
+# riversandlakesmercantile.github.io
 The repo for my site
